@@ -1,20 +1,12 @@
 const michiganCities = [
-  "Lennon", "Lake City", "Houghton", "Martin", "Jonesville",
-  "Marshall", "Hastings", "Lawrence", "Howard City", "Lexington",
-  "Ishpeming", "Highland Park", "Lawton", "Leonard", "Hillman",
-  "Lincoln Park", "Jones", "Jasper", "Haslett", "Hersey",
-  "Holly", "Houghton Lake", "Marlette", "La Salle", "Marcellus",
-  "Lake Linden", "Lyons", "Jeddo", "Kingston", "Laingsburg",
-  "Kent City", "Lake Leelanau", "Kinross", "Lowell", "Johannesburg",
-  "Mancelona", "Manitou Beach", "Samaria", "Whitehall", "Rosebush",
-  "Weidman", "Taylor", "Wayland", "Shelby", "Union City",
-  "Springport", "Southgate", "Stanton", "Ubly", "Williamsburg",
-  "Vestaburg", "Sidney", "Spruce", "Union Pier", "Shepherd",
-  "West Branch", "Unionville", "White Cloud", "Saint Charles", "Scotts",
-  "Webberville", "Stephenson", "Vulcan", "West Olive", "Saint Ignace",
-  "Roseville", "Sandusky", "Tekonsha", "Three Oaks", "Smiths Creek",
-  "Stanwood", "Watersmeet", "Tawas City", "Schoolcraft", "Sand Lake",
-  "Vandalia", "Vassar", "Spalding", "Sebewaing", "Standish",
+  "South Rockwood", "Saranac", "Stockbridge", "Wells", "Shelbyville",
+  "Tipton", "Twin Lake", "Vicksburg", "Rose City", "White Pigeon",
+  "Rogers City", "Wayne", "Sodus", "Sturgis", "Snover",
+  "Scottville", "Three Rivers", "Saint Clair", "Wetmore", "Whitmore Lake",
+  "Turner", "Willis", "South Haven", "Whittemore", "Watervliet",
+  "Sanford", "Yale", "Sheridan", "Thompsonville", "Saint Louis",
+  "Wakefield", "Saugatuck", "Rudyard", "Suttons Bay", "Union Lake",
+  "Tustin", "Westphalia", "Romeo", "Union",
 ];
 
 const BATCH_SIZE = 5;
